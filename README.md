@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=[https://ssl.gstatic.com/gb/images/ring/pr_56px_2x_asknjuyerc.png](https://avatars.githubusercontent.com/u/190184773?v=4) />
+  <img src="https://avatars.githubusercontent.com/u/190184773?v=4" />
 </div>
 
 <h3 align="center">
