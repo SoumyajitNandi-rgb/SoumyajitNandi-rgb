@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/190184773?v=4&size=64" />
+  <img src="https://avatars.githubusercontent.com/u/190184773?v=4" />
 </div>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 
 Hey! I’m **Soumyajit Nandi** — I build **reliable backend-heavy applications** with clean architecture and real-world intent.  
-My core lies in **MERN**, with growing depth in **Java backend systems**, **cloud infrastructure**, and **DevOps workflows**.  
+My core lies in **MERN**, with growing depth in **Javascript backend systems**, **cloud infrastructure**, and **DevOps workflows**.  
 I grind **DSA in C++** because fundamentals never go out of style.
 
 - 💻 Building scalable **full-stack & backend-first applications**  
@@ -53,8 +53,7 @@ I grind **DSA in C++** because fundamentals never go out of style.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />                
 </div>
 
 ### Backend & Databases
