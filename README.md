@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/190184773?v=4" />
+  <img src="https://avatars.githubusercontent.com/u/190184773?v=4&size=64" />
 </div>
 
 <h3 align="center">
