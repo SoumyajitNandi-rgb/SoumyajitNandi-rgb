@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/190184773?v=4 font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Soumyajit+Nandi" alt="Typing SVG" />
+  <img src="[https://avatars.githubusercontent.com/u/190184773?v=4 ](https://avatars.githubusercontent.com/u/190184773?v=4)font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Soumyajit+Nandi" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
